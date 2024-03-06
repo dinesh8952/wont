@@ -1,0 +1,3 @@
+[submodule "TIC-TAC-TOE"]
+	path = TIC-TAC-TOE
+	url = git@github.com:dinesh8952/TIC-TAC-TOE.git
